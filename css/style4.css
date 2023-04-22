@@ -1,0 +1,34 @@
+
+.pic{
+    margin-top: 5rem;
+    margin-left: 33rem;
+    
+}
+
+p{
+    margin-top: 2rem;
+    text-align: center;
+   padding:rem;
+   margin-left: 4rem;
+   font-size: larger;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   color: blueviolet;
+}
+.special a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   font-weight: bolder;
+    margin-left: 36rem;
+    margin-top: 2rem;
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 120px;
+    height: 30px;
+    background-color: blueviolet;
+    color: black;
+    border-radius: 30px;
+
+    
+
+}

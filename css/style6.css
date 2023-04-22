@@ -1,0 +1,96 @@
+body{
+    background-image: url(photos/wp4.jpg);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.navbar li a{
+    text-decoration: none; 
+    padding: 3px 3px;
+    color: blueviolet;
+}
+
+.navbar li{
+    float: left;
+    margin-top: 1rem;
+    margin-left: 9rem;
+    list-style: none;
+    /* padding: 1rem; */
+    color: blueviolet;
+    font-weight: bold;
+}
+.para{
+    letter-spacing: 1px;
+    position: absolute;
+    margin-top: 1rem;
+    padding: 3.5rem;
+    color: blueviolet;
+}
+.a{
+   width: 200px;
+   height: 150px;
+   border-radius: 20px;
+   
+}
+.b{
+    width: 200px;
+    height: 150px;
+    border-radius: 20px;
+}
+.c{
+    width: 200px;
+    height: 150px;
+    border-radius: 20px;
+}
+.pic{
+    letter-spacing: 1rem;
+    position: absolute;
+    margin-left: 5rem;
+    margin-top: 11rem;
+}
+
+.an a{
+    color: black;
+    position: absolute;
+    letter-spacing: 1px;
+    text-decoration: none; 
+    margin-top: 9.5rem;
+   margin-left: -11rem;
+}
+.d{
+    width: 200px;
+    height: 150px;
+    border-radius: 20px;
+    margin-left: 5rem;
+    margin-top: 20.5rem;
+}
+.e{
+    width: 200px;
+    height: 150px;
+    border-radius: 20px;
+    margin-left: 1rem;
+    margin-top: 20.5rem;
+}
+.f{
+    width: 200px;
+    height: 150px;
+    border-radius: 20px;
+    margin-left: 1rem;
+    margin-top: 20.5rem;
+}
+.dt a{
+    color: black;
+    letter-spacing: 1px;
+    position: absolute;
+    text-decoration: none;
+    margin-top: 30rem;
+    margin-left: -10rem;
+}
+.an a:hover{
+    color: cornflowerblue;
+}
+.dt a:hover{
+    color: cornflowerblue;
+}
+
+
+
